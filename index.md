@@ -4,6 +4,7 @@ title: Research
 tagline:
 ---
 
+(website. under construction .... )
 
 realTRIPS aims to open a new avenue of research in urban mobility analysis using emerging automatic data by developing an analytical and modelling framework, particularly addressing variability across spatial-temporal scales and of population groups. The proposed framework will leverage key concepts from uncertainty in spatial analysis, time geography, land use transport modelling, and urban planning. Under this theoretical framework, new variability measures will be developed and integrated as a function of space and time into operational urban models. These urban models will generate a more accurate evaluation of land use and transport impacts on people’s mobility patterns in terms of the affected area and effect time. Case studies in three typical urban contexts (i.e. London, Shenzhen, and Nairobi) will be explored to demonstrate the feasibility and generic applicability of the proposed framework, analytical methods and urban models.
 
