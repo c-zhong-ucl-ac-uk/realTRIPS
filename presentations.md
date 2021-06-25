@@ -1,6 +1,6 @@
 ---
 layout: page
-title: presentations
+title: 
 tagline:
 ---
 
