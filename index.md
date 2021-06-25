@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Data Assimilation for Agent-Based Modelling
+title:  realTRIPS
 tagline:
 ---
 
