@@ -4,7 +4,9 @@ title:
 tagline: Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS
 ---
 
-## Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)
+
+
+### Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)
 
 (website. under construction .... )
 
