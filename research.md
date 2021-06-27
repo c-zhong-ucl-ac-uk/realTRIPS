@@ -21,6 +21,7 @@ London represents those cities in well-developed countries, and with relatively 
 Our goal is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments.
 </tr>
 
+<tr>
 <figure style="width:100%; padding:10px;" >
 	<a href="https://c-zhong-ucl-ac-uk.github.io/realTRIPS/shenzhen.html">
 		<img src="/figures/cities/shenzhen.png"/ align="left">
@@ -29,7 +30,7 @@ Our goal is to model short-term and long-term changes on travel and location cho
 
 Shenzhen (related to SIMETRI project) represents these cities in newly developed countries with rich datasets but of varying quality. 
 To model mid-term changes in location choices induced by transport infrastructure development. 
-
+</tr>
 
 
 
