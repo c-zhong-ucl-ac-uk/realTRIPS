@@ -9,38 +9,21 @@ tagline:
 
 To test the feasibility and generic applicability of the proposed framework, methods and models by applying them to case studies in typical urban contexts. Case studies in three typical urban contexts are designed against four main criteria: (1) representing varied spatiotemporal scales; (2) representing different stages of urban development; (3) demonstrating varied data quality; (4) the availability of data sources. 
 
-| - | - |
-| ![London](/figures/cities/london.png) | London represents those cities in well-developed countries, and with relatively well-structured mobility datasets.
-Our goal is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments. |
+
+<p align="left">
+  <img width=50% src= /figures/cities/london.png alt="London represents those cities in well-developed countries, and with relatively well-structured mobility datasets. The relevant case study is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments.">
+</p>
 
 
-<div
-<figure style="width:100%; padding:10px;" >
-	<a href="https://c-zhong-ucl-ac-uk.github.io/realTRIPS/london.html">
-		<img src="/figures/cities/london.png"/ align="left">
-	</a>
-</figure>
-
-London represents those cities in well-developed countries, and with relatively well-structured mobility datasets.
-Our goal is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments.
-</div>
+<p align="left">
+  <img width=50% src= /figures/cities/shenzhen.png alt="Shenzhen (related to SIMETRI project) represents these cities in newly developed countries with rich datasets but of varying quality. The relevant case study is to model mid-term changes in location choices induced by transport infrastructure development. ">
+</p>
 
 
-<div
-<figure style="width:100%; padding:10px;" >
-	<a href="https://c-zhong-ucl-ac-uk.github.io/realTRIPS/shenzhen.html">
-		<img src="/figures/cities/shenzhen.png"/ align="left">
-	</a>
-</figure>
+<p align="left">
+  <img width=50% src= /figures/cities/nairobi.png alt="Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios.">
+</p>
 
-Shenzhen (related to SIMETRI project) represents these cities in newly developed countries with rich datasets but of varying quality. 
-To model mid-term changes in location choices induced by transport infrastructure development. 
-</div>
-
-
-<img style="float: left;" src="/figures/cities/nairobi.png">
-Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. 
-An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios.
 
 More case studies will be added along we developing our project. 
 
