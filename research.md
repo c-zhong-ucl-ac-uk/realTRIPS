@@ -41,7 +41,7 @@ To model mid-term changes in location choices induced by transport infrastructur
 	</a>
 </figure>
 
-![London]("/figures/cities/nairobi.png"){: style="float: left; width:100%; padding:10px;"}
+![London](/figures/cities/nairobi.png){: style="float: left; width:100%; padding:10px;"}
 
 
 Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. 
