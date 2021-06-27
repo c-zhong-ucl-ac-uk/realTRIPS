@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: image-post
 title: "Invited lecture to Tianjing Univerity:城市空间移动大数据的应用与挑战"
 tagline:
 category: overall
