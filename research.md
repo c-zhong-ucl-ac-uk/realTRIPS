@@ -34,9 +34,7 @@ To model mid-term changes in location choices induced by transport infrastructur
 </p>
 
 
-
-![image](/figures/cities/nairobi.png){: style="float: left"}
-
+<img style="float: left;" src="/figures/cities/nairobi.png">
 Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. 
 An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios.
 
