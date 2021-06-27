@@ -1,5 +1,5 @@
 ---
-layout: image-post
+layout: archive
 title : Blog
 header : Blog
 group: navigation
