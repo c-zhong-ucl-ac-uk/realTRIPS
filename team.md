@@ -5,7 +5,6 @@ tagline:
 ---
 
 
-
 ### Research Fellow on realTRIPS and the relevant projects
 
 [Qili Gao] is currently based at Hongkong Poly U, and also affilated with Shenzhen University. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
