@@ -10,13 +10,15 @@ tagline:
 To test the feasibility and generic applicability of the proposed framework, methods and models by applying them to case studies in typical urban contexts. Case studies in three typical urban contexts are designed against four main criteria: (1) representing varied spatiotemporal scales; (2) representing different stages of urban development; (3) demonstrating varied data quality; (4) the availability of data sources. 
 
 
-London represents those cities in well-developed countries, and with relatively well-structured mobility datasets.
-Our goal is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments.
+
 <figure style="width:100%; padding:10px;" >
 	<a href="https://c-zhong-ucl-ac-uk.github.io/realTRIPS/london.html">
 		<img src="/figures/cities/london.png"/ align="left">
 	</a>
 </figure>
+
+London represents those cities in well-developed countries, and with relatively well-structured mobility datasets.
+Our goal is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments.
 
 
 
