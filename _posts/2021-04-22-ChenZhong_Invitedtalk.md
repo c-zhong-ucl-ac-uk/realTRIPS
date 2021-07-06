@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Invited lecture to ITC-GIP Research Seminar: Redefining Variability: some thoughts on urban analytics using human mobility data
+title: "Invited lecture to ITC-GIP Research Seminar: Redefining Variability: some thoughts on urban analytics using human mobility data"
 tagline:
 category: overall
 img: tju-20-05-2021.png
