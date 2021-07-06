@@ -5,7 +5,7 @@ header : Blog
 group: navigation
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
