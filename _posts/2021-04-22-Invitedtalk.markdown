@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Invited talk to ITC-GIP Research Seminar: Redefining Variability_some thoughts on urban analytics using human mobility data"
 date: 2021-04-22 00:00:00 +0300
 description:  # Add post description (optional)
