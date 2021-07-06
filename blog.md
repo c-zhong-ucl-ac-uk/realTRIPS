@@ -2,6 +2,7 @@
 layout: page
 title : Blog
 header : Blog
+img: tju-20-05-2021.png
 group: navigation
 ---
 
