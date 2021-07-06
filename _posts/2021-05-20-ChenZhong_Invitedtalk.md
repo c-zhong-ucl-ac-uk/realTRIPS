@@ -3,7 +3,7 @@ layout: post
 title: "Invited lecture to Tianjing Univerity:城市空间移动大数据的应用与挑战"
 tagline:
 category: overall
-featured-image: "/figures/featureimage/tju-20-05-2021.png"
+img:tju-20-05-2021.png
 tags: [urban planning, mobility data, smart cities]
 ---
 
