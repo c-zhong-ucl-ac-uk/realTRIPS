@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 tagline: Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS
 ---
 
@@ -8,7 +8,6 @@ tagline: Redefining Variability: EvALuating Land Use and TRansport Impacts on Ur
 
 ### Redefining Variability: EvALuating Land Use and TRansport Impacts on Urban Mobility PatternS (realTRIPS)
 
-(website. under construction .... )
 
 realTRIPS is a ERC funded five-year project running from Feb 2021 – Feb 2026.
 
