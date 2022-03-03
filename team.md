@@ -28,13 +28,16 @@ tagline:
 
 
 ### Advisory board member 
-[Prof. Michael Batty] (http://www.complexcity.info/), Professor of Planning, CASA, UCL
-[Dr Dr. Mingshu Wang] (https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
+[Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
+
+[Dr Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
 
 ### collaborators
 [Dr Wei Tu](https://spatialsmart.github.io/), Associate Professor, Shenzhen University
+
 [Prof Yang Yue](https://saup.szu.edu.cn/info/1092/1413.htm) Professor, Shenzhen University
-[Dr Faith Taylor] (https://www.kcl.ac.uk/people/faith-taylor) Lecturer in Physical Geography Education, King's College London
+
+[Dr Faith Taylor](https://www.kcl.ac.uk/people/faith-taylor) Lecturer in Physical Geography Education, King's College London
 
 
 ### Latest Blog Posts
