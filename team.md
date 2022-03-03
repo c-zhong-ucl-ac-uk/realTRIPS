@@ -12,25 +12,29 @@ tagline:
 
 [Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) is a Research Fellow who has just joined CASA through the realTRIPS project. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. Her PhD research involves the analysis of data from several countries, the application of urban scaling models to the data and the study of some methodological aspects regarding the estimation of parameters in urban scaling models, especially in the presence of dragon-king cities.
 
-[Qili Gao] ([SIMETRI project](https://simetri.uk/about-the-project)) is currently based at Hongkong Poly U, and also affilated with Shenzhen University. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
+[Qili Gao](https://www.gaoqili.cn/) ([SIMETRI project](https://simetri.uk/about-the-project)) is currently based at Hongkong Poly U, and also affilated with Shenzhen University. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
 
 
 ### PhD students on realTRIPS and the relevant projects
 
-Yikang Wang is a PhD student at CASA UCL. Prior to this, he obtained a bachelor’s degree in GIS from Wuhan University with honour, followed by an MSc in Computational Science at Imperial College. He is working on the analysis of human mobility in London.
+[Yikang Wang](https://yikang.site/) is a PhD student at CASA UCL. Prior to this, he obtained a bachelor’s degree in GIS from Wuhan University with honour, followed by an MSc in Computational Science at Imperial College. He is working on the analysis of human mobility in London.
 
-[Bowen Zhang](https://kclpure.kcl.ac.uk/portal/en/persons/bowen-zhang(fe5d5f02-4d41-4980-8fa7-8bf8377f6d9f).html) is based at King's College London, funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay area. 
+[Bowen Zhang](https://bowenzhang.org/) is based at King's College London, funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay area. 
+
+[Wenlan Zhang] is a PhD student at CASA UCL, started in March 2022.
 
 
 ### Other PhD students working on seperate project
 
 
 ### Advisory board member 
-
+[Prof. Michael Batty] (http://www.complexcity.info/), Professor of Planning, CASA, UCL
+[Dr Dr. Mingshu Wang] (https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
 
 ### collaborators
-
-
+[Dr Wei Tu](https://spatialsmart.github.io/), Associate Professor, Shenzhen University
+[Prof Yang Yue](https://saup.szu.edu.cn/info/1092/1413.htm) Professor, Shenzhen University
+[Dr Faith Taylor] (https://www.kcl.ac.uk/people/faith-taylor) Lecturer in Physical Geography Education, King's College London
 
 
 ### Latest Blog Posts
