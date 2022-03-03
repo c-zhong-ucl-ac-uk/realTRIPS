@@ -25,7 +25,8 @@ tagline:
 
 
 ### Other PhD students working on seperate project
-
+Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, primary supervised by Dr Chen Zhong. The project is an ESRC funded and in collaboration with London Ambulance Services.
+ 
 
 ### Advisory board member 
 [Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
@@ -41,7 +42,7 @@ tagline:
 
 
 ### Visiting scholars
-
+[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University
 
 ### Latest Blog Posts
 
