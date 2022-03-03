@@ -12,7 +12,7 @@ tagline:
 
 [Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) is a Research Fellow who has just joined CASA through the realTRIPS project. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. Her PhD research involves the analysis of data from several countries, the application of urban scaling models to the data and the study of some methodological aspects regarding the estimation of parameters in urban scaling models, especially in the presence of dragon-king cities.
 
-[Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023) is currently based at Hongkong Poly U, and also affilated with Shenzhen University. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
+[Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023) is a Research Fellow at CASA UCL. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
 
 
 ### PhD students on realTRIPS and the relevant projects
@@ -38,6 +38,9 @@ tagline:
 [Prof Yang Yue](https://saup.szu.edu.cn/info/1092/1413.htm) Professor, Shenzhen University
 
 [Dr Faith Taylor](https://www.kcl.ac.uk/people/faith-taylor) Lecturer in Physical Geography Education, King's College London
+
+
+### Visiting scholars
 
 
 ### Latest Blog Posts
