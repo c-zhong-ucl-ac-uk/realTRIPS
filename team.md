@@ -19,7 +19,7 @@ tagline:
 
 [Yikang Wang](https://yikang.site/) is a PhD student at CASA UCL. Prior to this, he obtained a bachelor’s degree in GIS from Wuhan University with honour, followed by an MSc in Computational Science at Imperial College. He is working on the analysis of human mobility in London.
 
-[Bowen Zhang](https://bowenzhang.org/) is based at King's College London, funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay area. 
+[Bowen Zhang](https://bowenzhang.org/) is based at [King's College London](https://www.kcl.ac.uk/geography), funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay area. 
 
 Wenlan Zhang is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
 
