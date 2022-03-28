@@ -21,7 +21,7 @@ tagline:
 
 [Bowen Zhang](https://bowenzhang.org/) is based at King's College London, funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay area. 
 
-[Wenlan Zhang] is a PhD student at CASA UCL, started in March 2022.
+[Wenlan Zhang] is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
 
 
 ### Other PhD students working on seperate project
