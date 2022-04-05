@@ -23,9 +23,9 @@ Smith, Duncan A, Yao Shen, Joana Barros, Chen Zhong, Mike Batty, and Mariana Gia
 Zhong, Chen, Shi Zeng, Wei Tu, and Mitsuo Yoshida. 2018. [**Profiling the Spatial Structure of London: From Individual Tweets to Aggregated Functional Zones**](http://www.mdpi.com/2220-9964/7/10/386.), ISPRS International Journal of Geo-Information, 7: 386.
 
 
-## Kenya
+## Kenya/Africa 
 
-paper under review
+Rafael Prieto Curiel,  Carmen Cabrera-Arnau and Steven R. Bishop, 2022. [**Scaling beyond cities**](https://www.frontiersin.org/articles/10.3389/fphy.2022.858307/full), Frontiers in Physics, in press
 
 ## Other cities
 
