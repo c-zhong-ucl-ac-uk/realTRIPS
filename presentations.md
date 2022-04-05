@@ -50,7 +50,7 @@ Haocheng Sun; Michael Batty; Chen Zhong
 
 Keywords: GBA, Spatial Structure, Morphological Polycentricity, Functional Polycentricity, Node- Place Model
 
-[link to abstract](publications/ECTQG_abstract_haocheng Sun.pdf)
+[link to abstract](publications/ECTQG_abstract_haocheng.pdf)
 
 </div>
 
@@ -66,7 +66,7 @@ Yongxin Yang;
 
 Keywords: transit-oriented development, node-place-design model, urban vibrancy, metro station areas
 
-[link to abstract](publications/ECTQG_abstract_yongxin Yang.pdf)
+[link to abstract](publications/ECTQG_abstract_Yongxin Yang.pdf)
 
 </div>
 
