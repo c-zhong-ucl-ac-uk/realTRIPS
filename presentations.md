@@ -34,7 +34,7 @@ Bowen Zhang; Chen Zhong; Qili Gao
 Keywords: urban movements, cell phone data, spatial interaction model, community detection, mega
 city-region
 
-[link to abstract](publications/ECTQG_abstract_bowen.pdf)
+[link to abstract](publications/ECTQG_abstract_bowenzhang.pdf)
 
 </div>
 
@@ -50,7 +50,7 @@ Haocheng Sun; Michael Batty; Chen Zhong
 
 Keywords: GBA, Spatial Structure, Morphological Polycentricity, Functional Polycentricity, Node- Place Model
 
-[link to abstract](publications/ECTQG_abstract_haocheng.pdf)
+[link to abstract](publications/ECTQG_abstract_haocheng Sun.pdf)
 
 </div>
 
@@ -66,7 +66,7 @@ Yongxin Yang;
 
 Keywords: transit-oriented development, node-place-design model, urban vibrancy, metro station areas
 
-[link to abstract](publications/ECTQG_abstract_yongxin.pdf)
+[link to abstract](publications/ECTQG_abstract_yongxin Yang.pdf)
 
 </div>
 
