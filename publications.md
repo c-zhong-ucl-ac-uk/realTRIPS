@@ -11,7 +11,7 @@ tagline: Documentation produced by, or associated with, the project
 
 Wei Tu, Tingting Zhu, **Chen Zhong**, Xiaohu Zhang, Yang Xu, and Qingquan Li. 2021 [**Exploring metro vibrancy and its relationship with built environment: a cross-city comparison using multi-source urban data.**](https://www.tandfonline.com/doi/pdf/10.1080/10095020.2021.1996212) Geo-spatial Information Science 1-15.
 
-Jinzhou Cao, Qingquan Li, Wei Tu, Qili Gao, Rui Cao, and **Chen Zhong**. 2021. [**Resolving urban mobility networks from individual travel graphs using massive-scale mobile phone tracking data.**](https://doi.org/https://doi.org/10.1016/j.cities.2020.103077.), Cities, 110: 103077.
+Jinzhou Cao, Qingquan Li, Wei Tu, **Qili Gao**, Rui Cao, and **Chen Zhong**. 2021. [**Resolving urban mobility networks from individual travel graphs using massive-scale mobile phone tracking data.**](https://doi.org/https://doi.org/10.1016/j.cities.2020.103077.), Cities, 110: 103077.
 
 **Qi‐Li Gao**, Yang Yue, Wei Tu, Jinzhou Cao, and Qing‐Quan Li. 2021. [**Segregation or integration? Exploring activity disparities between migrants and settled urban residents using human mobility data**](https://onlinelibrary.wiley.com/doi/pdf/10.1111/tgis.12760?casa_token=gyMbIgEPEkMAAAAA:k5Wgy1iAsJvcrVGlnH0kMJELSCyosI1UlczIYUWR_TZXm_SZARVi1GdRU1uI2BxDqxj449iGA1HIgvw), Transactions in GIS.
 
