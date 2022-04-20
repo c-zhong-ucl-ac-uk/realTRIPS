@@ -29,6 +29,8 @@ Rafael Prieto Curiel,  **Carmen Cabrera-Arnau** and Steven R. Bishop, 2022. [**S
 
 ## Other cities
 
+Keyang Zhou,Yutian Liang,Chen Zhong,Jiaqi Zeng and Zhengke Zhou. 2022. [**Spatial Features of Urban Expansion in Vietnam Based on Long-Term Nighttime Lights Data**](https://www.mdpi.com/2073-445X/11/5/601/htm), Land, 11(5), 601.
+
 Mariana Giannotti, Joana Barros, Diego B Tomasiello, Duncan Smith, Bruna Pizzol, Beatriz M Santos, **Chen Zhong**, Yao Shen, Eduardo Marques, and Michael Batty. 2021. [**Inequalities in transit accessibility: Contributions from a comparative study between Global South and North metropolitan regions**](https://doi.org/10.1016/j.cities.2020.103016), Cities, 109: 103016.
 
 **Carmen Cabrera-Arnau**, and Steven R Bishop. 2021. [**Urban population size and road traffic collisions in Europe**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256485), PloS one, 16: e0256485.
