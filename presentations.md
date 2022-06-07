@@ -4,6 +4,7 @@ title:
 tagline:
 ---
 
+
 ---
 
 <div class="tip" markdown="1">
@@ -70,6 +71,23 @@ Keywords: transit-oriented development, node-place-design model, urban vibrancy,
 
 </div>
 
+
+---
+
+
+<div class="tip" markdown="1">
+
+<img align="left" width="300" height="200" src="figures/presentations/GISRUK2022_carmen.png">
+
+An analysis of the distribution of urban settlements in Africa
+
+Carmen Cabrera-Arnau; Rafael Prieto Curiel; Steven Richard Bishop
+
+Keywords: urban scaling, central places, urbanisation in Africa, road network
+
+[link to abstract](publications/GISRUK_abstract_carmen.pdf)
+
+</div>
 
 ---
 
