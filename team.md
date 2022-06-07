@@ -10,9 +10,9 @@ tagline:
 
 [Chen Zhong](https://imzhongchen.wordpress.com/aboutme/) is Associate Professor in Urban Analytics at [CASA, UCL](https://www.ucl.ac.uk/bartlett/casa) and PI on the realTRIPS project. Her research interests lie in spatial data analysis, machine learning, urban modelling, and data-driven methods for urban and transport planning. Her ongoing research focuses on urban mobility with strengths developed in three aspects: (i) the use of emerging human location data (e.g. smart card data, social media data) and advanced spatial analysis and modelling methods (ii) addressing broad transport-related issues, e.g. evolution of urban spatial structure, socio-spatial inequalities, and accessibility to services through academic and industrial collaborations; and (iii) looking into various urban contexts, e.g. mega-city regions in China and cities with informal settlements in Global South, e.g. Kenya.
 
-[Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) is a Research Fellow who has just joined CASA through the realTRIPS project. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. Her PhD research involves the analysis of data from several countries, the application of urban scaling models to the data and the study of some methodological aspects regarding the estimation of parameters in urban scaling models, especially in the presence of dragon-king cities.
+[Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) is a Research Fellow who has joined CASA through the realTRIPS project. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. With a background in Physics and Applied Mathematics, her current research focuses on geographic data analysis, mathematical modelling, statistics, human mobility and spatial inequalities. 
 
-[Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023) is a Research Fellow at CASA UCL. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
+[Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023.02) is a Research Fellow at CASA UCL. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
 
 
 ### PhD students on realTRIPS and the relevant projects
@@ -24,7 +24,7 @@ tagline:
 Wenlan Zhang is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
 
 
-### Other PhD students working on seperate project
+### Other PhD students in the team
 Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, primary supervised by Dr Chen Zhong. The project is an ESRC funded and in collaboration with London Ambulance Services.
  
 
