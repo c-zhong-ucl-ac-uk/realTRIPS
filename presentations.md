@@ -67,7 +67,7 @@ Yongxin Yang;
 
 Keywords: transit-oriented development, node-place-design model, urban vibrancy, metro station areas
 
-[link to abstract](/publications/ECTQG_abstract_Yongxin Yang.pdf)
+[link to abstract](/publications/ECTQG_abstract_yongxinyang.pdf)
 
 </div>
 
