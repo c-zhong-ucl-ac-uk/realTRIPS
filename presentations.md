@@ -11,7 +11,9 @@ tagline:
 
 <img align="left" width="300" height="200" src="figures/presentations/ectqg2021_qiligao.png">
 
-How activity pattern associates with income status? Evidence from transit smart card data and AI methods
+[European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
+
+Title: How activity pattern associates with income status? Evidence from transit smart card data and AI methods
 
 Qi-Li Gao; Chen Zhong; Yang Yue
 
@@ -28,12 +30,13 @@ Keywords: social inequality, socioeconomic status, activity pattern, smart card 
 
 <img align="left" width="300" height="200" src="figures/presentations/ectqg2021_bowen.png">
 
-A Novel Regionalisation Algorithm for Redrawing Cities’ Functional Boundary within Mega-city Region
+[European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
+
+Title: A Novel Regionalisation Algorithm for Redrawing Cities’ Functional Boundary within Mega-city Region
 
 Bowen Zhang; Chen Zhong; Qili Gao
 
-Keywords: urban movements, cell phone data, spatial interaction model, community detection, mega
-city-region
+Keywords: urban movements, cell phone data, spatial interaction model, mega city-region
 
 [link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_bowenzhang.pdf)
 
@@ -45,11 +48,13 @@ city-region
 
 <img align="left" width="300" height="200" src="figures/presentations/ectqg2021_haocheng.png">
 
-Measuring the Polycentricity based on urban and intercity transportation networks in Greater Bay Area: a cross-scale method in the context of Node-Place model
+[European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
+
+Title: Measuring the Polycentricity based on urban and intercity transportation networks in Greater Bay Area: a cross-scale method in the context of Node-Place model
 
 Haocheng Sun; Michael Batty; Chen Zhong
 
-Keywords: GBA, Spatial Structure, Morphological Polycentricity, Functional Polycentricity, Node- Place Model
+Keywords: GBA, Spatial Structure, Morphological Polycentricity, Node-Place Model
 
 [link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_haocheng.pdf)
 
@@ -61,11 +66,13 @@ Keywords: GBA, Spatial Structure, Morphological Polycentricity, Functional Polyc
 
 <img align="left" width="300" height="200" src="figures/presentations/ectqg2021_yongxin.png">
 
-The Comparative Study of TOD in Metro Station Areas of Guangzhou and Shenzhen Using an Extended Node-Place Model
+[European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
+
+Title: The Comparative Study of TOD in Metro Station Areas of Guangzhou and Shenzhen Using an Extended Node-Place Model
 
 Yongxin Yang;
 
-Keywords: transit-oriented development, node-place-design model, urban vibrancy, metro station areas
+Keywords: TOD, node-place-design model, urban vibrancy, metro station areas
 
 [link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_yongxinyang.pdf)
 
@@ -74,12 +81,13 @@ Keywords: transit-oriented development, node-place-design model, urban vibrancy,
 
 ---
 
-
 <div class="tip" markdown="1">
 
 <img align="left" width="300" height="200" src="figures/presentations/GISRUK2022_carmen.png">
 
-An analysis of the distribution of urban settlements in Africa
+[GISRUK 2022 30th Anniversity Conference](http://liverpool.gisruk.org/) 
+
+Title: An analysis of the distribution of urban settlements in Africa
 
 Carmen Cabrera-Arnau; Rafael Prieto Curiel; Steven Richard Bishop
 
