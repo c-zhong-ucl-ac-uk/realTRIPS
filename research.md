@@ -4,9 +4,6 @@ title: Research
 tagline:
 ---
 
-
-(Click the image to read more about our case studies)
-
 To test the feasibility and generic applicability of the proposed framework, methods and models by applying them to case studies in typical urban contexts. Case studies in three typical urban contexts are designed against four main criteria: (1) representing varied spatiotemporal scales; (2) representing different stages of urban development; (3) demonstrating varied data quality; (4) the availability of data sources. 
 
 ---
