@@ -17,7 +17,7 @@ Qi-Li Gao; Chen Zhong; Yang Yue
 
 Keywords: social inequality, socioeconomic status, activity pattern, smart card data, AI.
 
-[link to abstract](/publications/ECTQG_abstract_qiligao.pdf)
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_qiligao.pdf)
 
 
 </div>
@@ -35,7 +35,7 @@ Bowen Zhang; Chen Zhong; Qili Gao
 Keywords: urban movements, cell phone data, spatial interaction model, community detection, mega
 city-region
 
-[link to abstract](/publications/ECTQG_abstract_bowenzhang.pdf)
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_bowenzhang.pdf)
 
 </div>
 
@@ -51,7 +51,7 @@ Haocheng Sun; Michael Batty; Chen Zhong
 
 Keywords: GBA, Spatial Structure, Morphological Polycentricity, Functional Polycentricity, Node- Place Model
 
-[link to abstract](/publications/ECTQG_abstract_haocheng.pdf)
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_haocheng.pdf)
 
 </div>
 
@@ -67,7 +67,7 @@ Yongxin Yang;
 
 Keywords: transit-oriented development, node-place-design model, urban vibrancy, metro station areas
 
-[link to abstract](/publications/ECTQG_abstract_yongxinyang.pdf)
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/ECTQG_abstract_yongxinyang.pdf)
 
 </div>
 
@@ -85,7 +85,7 @@ Carmen Cabrera-Arnau; Rafael Prieto Curiel; Steven Richard Bishop
 
 Keywords: urban scaling, central places, urbanisation in Africa, road network
 
-[link to abstract](/publications/GISRUK_abstract_carmen.pdf)
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/3d0102f56a1419293f3994d03dd192c975683d5f/publications/GISRUK_abstract_carmen.pdf)
 
 </div>
 
