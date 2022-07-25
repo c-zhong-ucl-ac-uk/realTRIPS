@@ -111,7 +111,7 @@ Qili Gao, Chen Zhong, Yang Yue
 
 Keywords: [SIMETRI](https://simetri.uk/), Megacities, ineqalities, urban mobility
 
-[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/d6b634799aee2acf5873e751824659676a460f68/publications/AUM_abstract_Qili.pdf))
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/d6b634799aee2acf5873e751824659676a460f68/publications/AUM_abstract_Qili.pdf)
 
 </div>
 
