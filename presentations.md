@@ -103,7 +103,7 @@ Keywords: urban scaling, central places, urbanisation in Africa, road network
 
 <img align="left" width="300" height="200" src="figures/presentations/AUM2022_qili.png">
 
-[Hybrid Symposium on Applied Urban Modelling (AUM) 2022](http://liverpool.gisruk.org/](https://www.arct.cam.ac.uk/research/conferences/applied-urban-modelling-aum/aum2022-understanding-common-challenges) 
+[Hybrid Symposium on Applied Urban Modelling (AUM) 2022](https://www.arct.cam.ac.uk/research/conferences/applied-urban-modelling-aum/aum2022-understanding-common-challenges) 
 
 Title: SIMETRI: Socio-spatial inequalities and human mobility in megacities
 
