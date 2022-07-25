@@ -99,6 +99,24 @@ Keywords: urban scaling, central places, urbanisation in Africa, road network
 
 ---
 
+<div class="tip" markdown="1">
+
+<img align="left" width="300" height="200" src="figures/presentations/AUM2022_qili.png">
+
+[Hybrid Symposium on Applied Urban Modelling (AUM) 2022](http://liverpool.gisruk.org/](https://www.arct.cam.ac.uk/research/conferences/applied-urban-modelling-aum/aum2022-understanding-common-challenges) 
+
+Title: SIMETRI: Socio-spatial inequalities and human mobility in megacities
+
+Qili Gao, Chen Zhong, Yang Yue
+
+Keywords: [SIMETRI](https://simetri.uk/), Megacities, ineqalities, urban mobility
+
+[link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/d6b634799aee2acf5873e751824659676a460f68/publications/AUM_abstract_Qili.pdf))
+
+</div>
+
+---
+
 
 
 
