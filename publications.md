@@ -9,7 +9,7 @@ tagline: Documentation produced by, or associated with, the project
 
 ## Shenzhen
 
-**Qi-li Gao**, Yang Yue, **Chen Zhong**, Jinzhou Cao, Wei Tu and Qingquan Li (2022). [**Revealing transport inequality from an activity space perspective: A study based on human mobility data**](https://doi.org/10.1016/j.cities.2022.104036), Cities 2022 pp 104036
+**Qi-li Gao**, Yang Yue, **Chen Zhong**, Jinzhou Cao, Wei Tu and Qingquan Li (2022). [**Revealing transport inequality from an activity space perspective: A study based on human mobility data**](https://www.sciencedirect.com/science/article/pii/S0264275122004759), Cities 2022 pp 104036
 
 **Bowen Zhang**, **Chen Zhong**, **Qi-li Gao**, Zahratu Shabrina and Wei Tu (2022). [**Delineating urban functional zones using mobile phone data: A case study of cross-boundary integration in Shenzhen-Dongguan-Huizhou area**](https://www.sciencedirect.com/science/article/pii/S0198971522001168?via%3Dihub) Computers, Environment and Urban Systems 98: 101872.
 
