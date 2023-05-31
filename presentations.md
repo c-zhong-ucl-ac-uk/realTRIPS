@@ -13,7 +13,7 @@ Title: Exploring the Distance-decay Effect in Commuting Behaviour at the Local-l
 
 Bowen Zhang, Chen Zhong, Qili Gao, Zahratu Shabrina
 
-Keywords: human mobility pattern, spatial interaction model, local modelling, commuting behaviour, distance-decay effect
+Keywords: human mobility pattern, spatial interaction model, commuting behaviour, distance-decay effect
 
 [link to abstract](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/650900fdab9835bdb80a0938b1e784d9ca352046/publications/GISRUK2023_abstract_bowenzhang.pdf)
 
