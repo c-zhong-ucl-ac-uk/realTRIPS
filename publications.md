@@ -4,7 +4,7 @@ title: Project Publications and Documentation
 tagline: Documentation produced by, or associated with, the project
 ---
 
-## publications on and related to realTRIPS projects
+# Publications
 
 
 ## Shenzhen
