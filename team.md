@@ -21,8 +21,9 @@ tagline:
 
 [Bowen Zhang](https://bowenzhang.org/) is based at [King's College London](https://www.kcl.ac.uk/geography), funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay area. 
 
-Wenlan Zhang is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
+[Wenlan Zhang](https://www.ucl.ac.uk/bartlett/casa/wenlan-zhang) is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
 
+[Adham Enaya]() is a first year PhD student at CASA UCL.
 
 ### Other PhD students in the team
 Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, primary supervised by Dr Chen Zhong. The project is an ESRC funded and in collaboration with London Ambulance Services.
