@@ -23,7 +23,7 @@ tagline:
 
 [Wenlan Zhang](https://www.ucl.ac.uk/bartlett/casa/wenlan-zhang) is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
 
-[Adham Enaya]() is a first year PhD student at CASA UCL.
+[Adham Enaya]() is a first year PhD student at CASA UCL, working on urban mobility and spatial interaction models.
 
 ### Other PhD students in the team
 Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, primary supervised by Dr Chen Zhong. The project is an ESRC funded and in collaboration with London Ambulance Services.
@@ -44,6 +44,7 @@ Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, prim
 
 ### Visiting scholars
 [Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. (2022-2023)
+[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) visiting PhD student, Peking University. (02/2023 - 08/2023)
 
 ### Latest Blog Posts
 
