@@ -52,7 +52,7 @@ Mariana Giannotti, Joana Barros, Diego B Tomasiello, Duncan Smith, Bruna Pizzol,
 
 **Carmen Cabrera-Arnau**, and Steven R Bishop. 2021. [**Urban population size and road traffic collisions in Europe**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256485), PloS one, 16: e0256485.
 
-## Msc student dissertation project supervised by the team
+## Msc student dissertation projects
 
 2021 -
 
