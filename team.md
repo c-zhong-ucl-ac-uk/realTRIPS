@@ -34,7 +34,7 @@ Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, prim
 ### Advisory board member 
 [Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
 
-[Dr Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
+[Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
 
 ### collaborators
 [Dr Wei Tu](https://spatialsmart.github.io/), Associate Professor, Shenzhen University
