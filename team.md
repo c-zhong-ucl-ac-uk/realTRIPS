@@ -10,10 +10,7 @@ tagline:
 
 [Chen Zhong](https://imzhongchen.wordpress.com/aboutme/) is Associate Professor in Urban Analytics at [CASA, UCL](https://www.ucl.ac.uk/bartlett/casa) and PI on the realTRIPS project. Her research interests lie in spatial data analysis, machine learning, urban modelling, and data-driven methods for urban and transport planning. Her ongoing research focuses on urban mobility with strengths developed in three aspects: (i) the use of emerging human location data (e.g. smart card data, social media data) and advanced spatial analysis and modelling methods (ii) addressing broad transport-related issues, e.g. evolution of urban spatial structure, socio-spatial inequalities, and accessibility to services through academic and industrial collaborations; and (iii) looking into various urban contexts, e.g. mega-city regions in China and cities with informal settlements in Global South, e.g. Kenya.
 
-[Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) is a Research Fellow who has joined CASA through the realTRIPS project. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. With a background in Physics and Applied Mathematics, her current research focuses on geographic data analysis, mathematical modelling, statistics, human mobility and spatial inequalities. 
-
 [Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023.02) is a Research Fellow at CASA UCL. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. 
-
 
 ### PhD students on realTRIPS and the relevant projects
 
@@ -28,6 +25,11 @@ tagline:
 ### Other PhD students in the team
 Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, primary supervised by Dr Chen Zhong. The project is an ESRC funded and in collaboration with London Ambulance Services.
  
+### Associated team member
+
+[Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) was a Research Fellow who has joined CASA through the realTRIPS project in 2021. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. With a background in Physics and Applied Mathematics, her current research focuses on geographic data analysis, mathematical modelling, statistics, human mobility and spatial inequalities. She left the team in 2022 and is now a Lecturer in Geographic Data Science at the Department of Geography and Planning of the University of Liverpool.
+
+
 
 ### Advisory board member 
 [Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
