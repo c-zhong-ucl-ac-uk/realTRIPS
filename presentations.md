@@ -7,7 +7,7 @@ tagline:
 
 <img align="left" width="300" height="200" src="figures/presentations/gisruk2023_bowen.png">
 
-[GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/)
+[GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/) & [ectqg2023](https://ucpages.uc.pt/events/ectqg2023/)
 
 Title: Exploring the Distance-decay Effect in Commuting Behaviour at the Local-level with a Localised Spatial Interaction Model
 
