@@ -3,6 +3,24 @@ layout: presentations
 title: 
 tagline:
 ---
+
+<div class="tip" markdown="1">
+
+<img align="left" width="300" height="200" src="figures/presentations/cpgis2023_yikang.png">
+
+[International Conference on Geoinformatics in 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) 
+
+Title: Quantifying responses to the expansion of the Ultra Low Emission Zone in London
+
+Yikang Wang
+
+Keywords: DID model, ULEZ, London, causal inference
+
+[link to abstract](https://www.cpgis.org/userfiles/file/CPGIS_2023_programme_v8.pdf)
+
+</div>
+
+----
 <div class="tip" markdown="1">
 
 <img align="left" width="300" height="200" src="figures/presentations/gisruk2023_bowen.png">
