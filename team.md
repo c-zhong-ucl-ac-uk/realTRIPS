@@ -46,9 +46,9 @@ Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, prim
 
 
 ### Visiting scholars
-[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. (2022-2023)
+[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. (2022-2023).
 
-[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) visiting PhD student, Peking University. (02/2023 - 08/2023)
+[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) visiting PhD student, Peking University. (02/2023 - 08/2023).
 
 ### Latest Blog Posts
 
