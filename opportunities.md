@@ -6,11 +6,11 @@ tagline:
 
 ### Join us!!!
 
-- There will be 2 open Research Fellow positions comining soon, please keep an eye on our website.
+- We have no opening positions at the moment, but some may become available next year. Please keep an eye on our website and follow CASA twitter account.
 
-- Postdocs or final year PhD students with relevant backgrounds in urban mobility, transport planning/urban planning, spatial data science, and urban informatics are strongly encouraged to apply for fellowship schemes (e.g.,[MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships),[UKRC fellowships](https://www.ukri.org/what-we-offer/developing-people-and-skills/epsrc/fellowships/)) with our support.
+- Postdocs or final-year PhD students with relevant backgrounds in urban mobility, transport planning/urban planning, spatial data science, and urban informatics are strongly encouraged to apply for fellowship schemes (e.g., MSCA Postdoctoral Fellowships, UKRC fellowships) with our support.
 
-- I am looking for 1-2 PhD students each year. If you’re interested, please send me an email with your **CV and research proposal**. We welcomes inquiries from excellent candidates wishing to pursue research that investigates (but not limited to):
+- I am looking for 1-2 PhD students each year. If you’re interested, please send me an email with your **CV and research proposal**. We welcome inquiries from excellent candidates wishing to pursue research that investigates (but not limited to):
     - spatio-social inequality
     - spatial AI for urban mobility analysis
     - data-driven planning tools
