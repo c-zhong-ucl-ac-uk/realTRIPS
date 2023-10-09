@@ -67,6 +67,9 @@ Mariana Giannotti, Joana Barros, Diego B Tomasiello, Duncan Smith, Bruna Pizzol,
 * Leandra Lee, title: Multi-Scale Analysis of Commuting Efficiency and the Jobs-Housing Balance in the Pearl River Delta Mega-City Region
 
 2023 - 
+* Ying Ye, title: Unpacking the Cycling Safety of London’s Road Environment A Machine Learning Method Integrating Street View Images with Cycle Accident Data
+* Zhiwei Huang, title: Exploring the Impact of Specific Built Environment on Trip Generation and Attraction in Shenzhen
+* Yuhong Chen, Exploring Relationships between Commuting Burdens and Built Environment Variables: Evidence from Guangzhou, China
 
 
 
