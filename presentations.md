@@ -6,6 +6,23 @@ tagline:
 
 <div class="tip" markdown="1">
 
+<img align="left" width="300" height="200" src="figures/presentations/giscience2023_wenlan.png">
+
+[The 12 International Conference on Geographic Information Science](https://giscience2023.github.io/)
+
+Title: Digital Injustice: A Case Study of Land Use Classification using Multisource Data in Nairobi, Kenya 
+
+Wenlan Zhang, Dr. Chen Zhong, Dr. Faith Taylor
+
+Keywords: Digital Injustice, Nairobi, Multisource Data, Random Forest
+
+[link to short paper](https://drops.dagstuhl.de/opus/volltexte/2023/18989/pdf/LIPIcs-GIScience-2023-94.pdf)
+
+</div>
+
+----
+<div class="tip" markdown="1">
+
 <img align="left" width="300" height="200" src="figures/presentations/cpgis2023_yikang.png">
 
 [International Conference on Geoinformatics in 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) 
