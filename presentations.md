@@ -6,7 +6,7 @@ tagline:
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/giscience2023_wenlan.png">
+<img align="left" width="300" height="180" src="figures/presentations/giscience2023_wenlan.png">
 
 [The 12 International Conference on Geographic Information Science](https://giscience2023.github.io/)
 
@@ -21,7 +21,7 @@ Keywords: Digital Injustice, Nairobi, Multisource Data, Random Forest
 ----
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/cpgis2023_yikang.png">
+<img align="left" width="300" height="150" src="figures/presentations/cpgis2023_yikang.png">
 
 [International Conference on Geoinformatics in 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) 
 
@@ -36,7 +36,7 @@ Keywords: DID model, ULEZ, London, causal inference
 ----
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/gisruk2023_bowen.png">
+<img align="left" width="300" height="180" src="figures/presentations/gisruk2023_bowen.png">
 
 [GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/) & [ectqg2023](https://ucpages.uc.pt/events/ectqg2023/)
 
@@ -49,9 +49,10 @@ Keywords: spatial interaction model, commuting behaviour, distance-decay effect
 </div>
 
 ----
+
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/gisruk2023_carmen.png">
+<img align="left" width="300" height="180" src="figures/presentations/gisruk2023_carmen.png">
 
 [GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/)
 
@@ -84,7 +85,7 @@ Keywords: COVID-19, Twitter data, migration, urban mobility
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/AUM2022_qili.png">
+<img align="left" width="300" height="150" src="figures/presentations/AUM2022_qili.png">
 
 [Hybrid Symposium on Applied Urban Modelling (AUM) 2022](https://www.arct.cam.ac.uk/research/conferences/applied-urban-modelling-aum/aum2022-understanding-common-challenges)
 
@@ -99,7 +100,7 @@ Keywords: [SIMETRI](https://simetri.uk/), Megacities, ineqalities, urban mobilit
 ---
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/GISRUK2022_carmen.png">
+<img align="left" width="300" height="150" src="figures/presentations/GISRUK2022_carmen.png">
 
 [GISRUK 2022 30th Anniversity Conference](http://liverpool.gisruk.org/)
 
@@ -116,7 +117,7 @@ Keywords: urban scaling, central places, urbanisation in Africa, road network
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/ectqg2021_qiligao.png">
+<img align="left" width="300" height="180" src="figures/presentations/ectqg2021_qiligao.png">
 
 [European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
 
@@ -133,7 +134,7 @@ Keywords: social inequality, socioeconomic status, activity pattern, smart card 
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/ectqg2021_bowen.png">
+<img align="left" width="300" height="160" src="figures/presentations/ectqg2021_bowen.png">
 
 [European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
 
@@ -150,7 +151,7 @@ Keywords: urban movements, cell phone data, spatial interaction model, mega city
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/ectqg2021_haocheng.png">
+<img align="left" width="300" height="180" src="figures/presentations/ectqg2021_haocheng.png">
 
 [European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
 
@@ -167,7 +168,7 @@ Keywords: GBA, Spatial Structure, Morphological Polycentricity, Node-Place Model
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/ectqg2021_yongxin.png">
+<img align="left" width="300" height="180" src="figures/presentations/ectqg2021_yongxin.png">
 
 [European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
 
