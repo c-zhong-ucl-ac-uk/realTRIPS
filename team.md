@@ -25,14 +25,14 @@ tagline:
 ### Other PhD students in the team
 Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, primary supervised by Dr Chen Zhong. The project is an [ESRC funded](https://ubel-dtp.ac.uk/) and in collaboration with [London Ambulance Services](https://www.londonambulance.nhs.uk/).
  
-### Associated team member
+### Associated team members
 
 [Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) was a Research Fellow who has joined CASA through the realTRIPS project in 2021. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. With a background in Physics and Applied Mathematics, her current research focuses on geographic data analysis, mathematical modelling, statistics, human mobility and spatial inequalities. She left the team in 2022 and is now a Lecturer in Geographic Data Science at the Department of Geography and Planning of the University of Liverpool.
 
 [Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023.02) is a Research Fellow at CASA UCL. Her work focus on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. She left the team in Aug 2023 and is now an Assistant Professor at the Shenzhen Audencia Financial Technology Institute.
 
 
-### Advisory board member 
+### Advisory board members 
 [Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
 
 [Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
@@ -48,9 +48,9 @@ Samuel Murphy, PhD student on inequality in emergency services at CASA UCL, prim
 
 
 ### Visiting scholars
-[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. (2022-2023).
+[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. Visiting scholar at CASA (2022-2023).
 
-[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) visiting PhD student, Peking University. (02/2023 - 08/2023).
+[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) PhD student at Peking University. Visiting PhD student at CASA (02/2023 - 08/2023).
 
 ### Latest Blog Posts
 
