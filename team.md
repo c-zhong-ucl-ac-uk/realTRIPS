@@ -16,7 +16,7 @@ tagline:
 
 [Yikang Wang](https://yikang.site/) is a PhD student at CASA UCL. Prior to this, he obtained a bachelor’s degree in GIS from Wuhan University with honour, followed by an MSc in Computational Science at Imperial College. He is working on the analysis of human mobility in London. His PhD thesis is "Exploring the Impacts of Charging Zones on Human Mobility using Mobile Phone Location Data and a Causal Inference Approach".
 
-[Bowen Zhang](https://bowenzhang.org/) is a final year PhD based at [King's College London](https://www.kcl.ac.uk/geography), funded by K-CSC. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay Area. He is also a part-time Research Associate at [the Alan Turing Institute](https://www.turing.ac.uk/).
+[Bowen Zhang](https://bowenzhang.org/) is a final year PhD based at [King's College London](https://www.kcl.ac.uk/geography), funded by K-CSC and co-supervised by Dr Zahra Shabrina and Dr Chen Zhong. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay Area. He is also a part-time Research Associate at [the Alan Turing Institute](https://www.turing.ac.uk/).
 
 [Wenlan Zhang](http://www.zhangwenlan.com/) is a PhD student at CASA UCL, started in March 2022. She has a background in environmental science and sustainable development. Her research interests lie in spatial data analysis, sustainable smart cities, and technology for development. Her PhD topic is data justice for development with a case study in Kenya. 
 
@@ -37,8 +37,8 @@ tagline:
 
 [Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
 
-### collaborators
-[Dr Zahratu Shabrina](https://www.kcl.ac.uk/people/zahratu-shabrina), Lecturer in Geographic Data Science, King's College London
+### Collaborators
+[Dr Zahratu Shabrina](https://www.kcl.ac.uk/people/zahratu-shabrina), Lecturer in Geographic Data Science, King's College London. 
 
 [Dr Wei Tu](https://spatialsmart.github.io/), Associate Professor, Shenzhen University
 
