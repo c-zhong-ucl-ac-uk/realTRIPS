@@ -6,7 +6,7 @@ tagline:
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="180" src="figures/presentations/giscience2023_wenlan.png">
+<img align="left" width="300" height="200" src="figures/presentations/giscience2023_wenlan.png">
 
 [The 12 International Conference on Geographic Information Science](https://giscience2023.github.io/)
 
@@ -21,7 +21,7 @@ Keywords: Digital Injustice, Nairobi, Multisource Data, Random Forest
 ----
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="150" src="figures/presentations/cpgis2023_yikang.png">
+<img align="left" width="300" height="200" src="figures/presentations/cpgis2023_yikang.png">
 
 [International Conference on Geoinformatics in 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) 
 
@@ -36,7 +36,7 @@ Keywords: DID model, ULEZ, London, causal inference
 ----
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="180" src="figures/presentations/gisruk2023_bowen.png">
+<img align="left" width="300" height="200" src="figures/presentations/gisruk2023_bowen.png">
 
 [GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/) & [ectqg2023](https://ucpages.uc.pt/events/ectqg2023/)
 
@@ -52,7 +52,7 @@ Keywords: spatial interaction model, commuting behaviour, distance-decay effect
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="180" src="figures/presentations/gisruk2023_carmen.png">
+<img align="left" width="300" height="200" src="figures/presentations/gisruk2023_carmen.png">
 
 [GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/)
 
