@@ -151,7 +151,7 @@ Keywords: urban movements, cell phone data, spatial interaction model, mega city
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/ectqg2021_haocheng.png">
+<img align="left" width="300" height="210" src="figures/presentations/ectqg2021_haocheng.png">
 
 [European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
 
@@ -168,7 +168,7 @@ Keywords: GBA, Spatial Structure, Morphological Polycentricity, Node-Place Model
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/ectqg2021_yongxin.png">
+<img align="left" width="300" height="210" src="figures/presentations/ectqg2021_yongxin.png">
 
 [European Colloquium on Theoretical and Quantitative Geography, ECTQG2021](https://ectqg2021.wordpress.com/)
 
