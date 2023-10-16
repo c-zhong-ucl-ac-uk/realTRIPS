@@ -6,12 +6,14 @@ tagline:
 
 ### Join us!!!
 
-- We have no opening positions at the moment, but some may become available next year. Please keep an eye on our website and follow CASA twitter account.
+- Apply for a [UCL EPSRC DTP studentship](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship) now! There is one project proposed by our group, which is about [mobility and energy](https://ucl-epsrc-dtp.github.io/2024-25-project-catalogue/projects/2228cd1256.html). Studentship is open to both home and international students. Application deadline: 13:00 UK time on **08 January 2024**.
+    
+- We have no opening Research Fellow positions, but some may become available at this year's and next year's end. Please keep an eye on our website and follow the CASA Twitter account.
 
 - Postdocs or final-year PhD students with relevant backgrounds in urban mobility, transport planning/urban planning, spatial data science, and urban informatics are strongly encouraged to apply for fellowship schemes (e.g., MSCA Postdoctoral Fellowships, UKRC fellowships) with our support.
 
-- I am looking for 1-2 PhD students each year. If you’re interested, please send me an email with your **CV and research proposal**. We welcome inquiries from excellent candidates wishing to pursue research that investigates (but not limited to):
-    - spatio-social inequality
+- I am looking for 1-2 PhD students each year. If you’re interested, please email me your **CV and research proposal**. We welcome inquiries from excellent candidates wishing to pursue research that investigates (but not limited to):
+    - spatial-social inequality
     - spatial AI for urban mobility analysis
     - data-driven planning tools
     - urban simulation models 
