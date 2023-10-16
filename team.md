@@ -6,7 +6,7 @@ tagline:
 
 
 
-### Researchers on realTRIPS and the relevant projects
+### Staff members on realTRIPS and the relevant projects
 
 [Chen Zhong](https://profiles.ucl.ac.uk/46973) is Associate Professor in Urban Analytics at [CASA, UCL](https://www.ucl.ac.uk/bartlett/casa) and PI on the realTRIPS project. Her research interests lie in spatial data analysis, machine learning, urban modelling, and data-driven methods for urban and transport planning. Her ongoing research focuses on urban mobility with strengths developed in three aspects: (i) the use of emerging human location data (e.g. mobile app data) and advanced spatial analysis and modelling methods (ii) addressing broad transport-related issues, e.g. evolution of urban spatial structure, socio-spatial inequalities, and accessibility to services through academic and industrial collaborations; and (iii) looking into various urban contexts, e.g. mega-city regions in China and cities with informal settlements in Global South, e.g. Kenya.
 
@@ -34,11 +34,13 @@ tagline:
 
 
 ### Advisory board members 
+
 [Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
 
 [Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
 
 ### Collaborators
+
 [Dr Zahratu Shabrina](https://www.kcl.ac.uk/people/zahratu-shabrina), Lecturer in Geographic Data Science, King's College London. 
 
 [Dr Wei Tu](https://spatialsmart.github.io/), Associate Professor, Shenzhen University
@@ -49,6 +51,7 @@ tagline:
 
 
 ### Visiting scholars
+
 [Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. Visiting scholar at CASA (2022-2023).
 
 [Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) PhD student at Peking University. Visiting PhD student at CASA (02/2023 - 08/2023).
