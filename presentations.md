@@ -6,7 +6,7 @@ tagline:
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/giscience2023_wenlan.png">
+<img align="left" width="300" height="180" src="figures/presentations/giscience2023_wenlan.png">
 
 [The 12 International Conference on Geographic Information Science](https://giscience2023.github.io/)
 
@@ -21,7 +21,7 @@ Keywords: Digital Injustice, Nairobi, Multisource Data, Random Forest
 ----
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="150" src="figures/presentations/cpgis2023_yikang.png">
+<img align="left" width="300" height="160" src="figures/presentations/cpgis2023_yikang.png">
 
 [International Conference on Geoinformatics in 2023](https://www.cpgis.org/Conferences/ConferenceDefault.aspx?ID=2079) 
 
@@ -36,7 +36,7 @@ Keywords: DID model, ULEZ, London, causal inference
 ----
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/gisruk2023_bowen.png">
+<img align="left" width="300" height="180" src="figures/presentations/gisruk2023_bowen.png">
 
 [GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/) & [ectqg2023](https://ucpages.uc.pt/events/ectqg2023/)
 
@@ -52,7 +52,7 @@ Keywords: spatial interaction model, commuting behaviour, distance-decay effect
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="200" src="figures/presentations/gisruk2023_carmen.png">
+<img align="left" width="300" height="190" src="figures/presentations/gisruk2023_carmen.png">
 
 [GIS Research UK conference 2023](https://gisruk.org/gisruk-2023/)
 
@@ -69,7 +69,7 @@ Keywords: Urban spatial structure, Smart card data, Polycentricity, Complexity, 
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="210" src="figures/presentations/cpgis2022_wang.png">
+<img align="left" width="300" height="200" src="figures/presentations/cpgis2022_wang.png">
 
 [The 29th International Conference on Geoinformatics in 2022 and the 30th Anniversary of the Founding of CPGIS](https://www.cpgis.org/conferences/ConferenceDefault.aspx?ID=2078)
 
@@ -85,13 +85,14 @@ Keywords: COVID-19, Twitter data, migration, urban mobility
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="180" src="figures/presentations/AUM2022_qili.png">
+<img align="left" width="300" height="160" src="figures/presentations/AUM2022_qili.png">
 
 [Hybrid Symposium on Applied Urban Modelling (AUM) 2022](https://www.arct.cam.ac.uk/research/conferences/applied-urban-modelling-aum/aum2022-understanding-common-challenges)
 
 [Title: SIMETRI: Socio-spatial inequalities and human mobility in megacities](https://github.com/c-zhong-ucl-ac-uk/realTRIPS/blob/d6b634799aee2acf5873e751824659676a460f68/publications/AUM_abstract_Qili.pdf)
 
 Qili Gao, Chen Zhong, Yang Yue
+
 
 Keywords: [SIMETRI](https://simetri.uk/), Megacities, ineqalities, urban mobility
 
@@ -100,7 +101,7 @@ Keywords: [SIMETRI](https://simetri.uk/), Megacities, ineqalities, urban mobilit
 ---
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="190" src="figures/presentations/GISRUK2022_carmen.png">
+<img align="left" width="300" height="170" src="figures/presentations/GISRUK2022_carmen.png">
 
 [GISRUK 2022 30th Anniversity Conference](http://liverpool.gisruk.org/)
 
