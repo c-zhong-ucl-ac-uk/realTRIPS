@@ -18,8 +18,9 @@ Nairobi represents those cities in developing countries facing data poverty issu
 
 <a href="/publication.md">[read more...]</a> 
 
----
 More case studies will be added along with developing our project. 
+
+---
 
 ## Other relevant research projects
 
