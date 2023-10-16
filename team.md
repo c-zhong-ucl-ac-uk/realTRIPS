@@ -28,9 +28,9 @@ tagline:
  
 ### Alumni
 
-[Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) was a Research Fellow who joined CASA through the realTRIPS project in 2021. Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. With a background in Physics and Applied Mathematics, her current research focuses on geographic data analysis, mathematical modelling, statistics, human mobility and spatial inequalities. She left the team in 2022 and is now a Lecturer in Geographic Data Science at the Department of Geography and Planning of the University of Liverpool.
+[Carmen Cabrera-Arnau](https://www.ucl.ac.uk/~ucahcca/) is a Lecturer in Geographic Data Science at the Department of Geography and Planning of the University of Liverpool。 She was a Research Fellow who joined CASA through the realTRIPS project (Sep 2021 - Sep 2022). Prior to this, she did the MSc in Complex Systems at King's College London, followed by a PhD at UCL's Department of Mathematics. With a background in Physics and Applied Mathematics, her current research focuses on geographic data analysis, mathematical modelling, statistics, human mobility and spatial inequalities. 
 
-[Qili Gao](https://www.gaoqili.cn/) (on [SIMETRI project](https://simetri.uk/about-the-project) until 2023.02) is a Research Fellow at CASA UCL. Her work focuses on spatial-temporal data mining, urban informatics, and analysis on human mobility and activity behaviours for urban and transport planning. She left the team in Aug 2023 and is now an Assistant Professor at the Shenzhen Audencia Financial Technology Institute.
+[Qili Gao](https://www.gaoqili.cn/) is an Assistant Professor at the Shenzhen Audencia Financial Technology Institute. She was a Research Fellow at CASA UCL, working on the [SIMETRI project](https://simetri.uk/about-the-project) and realTRIPS from March 2021 to Aug 2023. Her work focuses on spatial-temporal data mining, urban informatics, and analysis of human mobility and activity behaviours for urban and transport planning. 
 
 
 ### Advisory board members 
