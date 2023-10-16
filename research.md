@@ -16,7 +16,7 @@ Shenzhen (related to SIMETRI project) represents these cities in newly developed
 
 Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios. 
 
-<a href="/publications.md">[read more...]</a> 
+<a href="/publications.html">[read more...]</a> 
 
 More case studies will be added along with developing our project. 
 
