@@ -12,10 +12,11 @@ Most European citizens live in urban areas. For their mobility, they share the s
 
 London represents those cities in well-developed countries, and with relatively well-structured mobility datasets. The relevant case study is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments.           
 
-Shenzhen (related to SIMETRI project) represents these cities in newly developed countries with rich datasets but of varying quality. The relevant case study is to model mid-term changes in location choices induced by transport infrastructure development. <a href="/shenzhen.md">[read more...]</a> 
+Shenzhen (related to SIMETRI project) represents these cities in newly developed countries with rich datasets but of varying quality. The relevant case study is to model mid-term changes in location choices induced by transport infrastructure development. 
 
-Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios. <a href="/nairobi.md">[read more...]</a> 
+Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios. 
 
+<a href="/publication.md">[read more...]</a> 
 
 ---
 More case studies will be added along with developing our project. 
