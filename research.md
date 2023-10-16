@@ -10,7 +10,7 @@ Most European citizens live in urban areas. For their mobility, they share the s
 
 <div class="tip" markdown="1">
 
-<img align="left" width="150" height="100" src="/figures/cities/london.png">
+<img align="left" width="150" height="80" src="/figures/cities/london.png">
 London represents those cities in well-developed countries, and with relatively well-structured mobility datasets. The relevant case study is to model short-term and long-term changes on travel and location choices induced by transport disruptions and new developments. <a href="/london.md">[read more...]</a>                  
 </div>
 
@@ -18,7 +18,7 @@ London represents those cities in well-developed countries, and with relatively 
 
 <div class="tip" markdown="1">
 
-<img align="left" width="150" height="100"  src="/figures/cities/shenzhen.png">
+<img align="left" width="150" height="80"  src="/figures/cities/shenzhen.png">
 Shenzhen (related to SIMETRI project) represents these cities in newly developed countries with rich datasets but of varying quality. The relevant case study is to model mid-term changes in location choices induced by transport infrastructure development. <a href="/shenzhen.md">[read more...]</a> 
 
 </div>
@@ -27,13 +27,23 @@ Shenzhen (related to SIMETRI project) represents these cities in newly developed
 
 <div class="tip" markdown="1">
 
-<img align="left" width="150" height="100"  src="/figures/cities/nairobi.png">
+<img align="left" width="150" height="80"  src="/figures/cities/nairobi.png">
 Nairobi represents those cities in developing countries facing data poverty issues but needing formal urban planning urgently. An example application will be developed as mapping dynamic urban space for long-term strategic planning of natural hazard scenarios. <a href="/nairobi.md">[read more...]</a> 
 
 </div>
 
 ---
-More case studies will be added along we developing our project. 
+More case studies will be added along with developing our project. 
+
+## Other relevant research projects
+
+![simetri](https://my.loyals.nl/uploads/images/websites/vrije-universiteit-spatial-economics/detail/simabout-the-project-1-2.png)
+
+The research project [SIMETRI](https://simetri.uk/about-the-project) (SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance, 2019 - 2023) brings together researchers from University College London, Birkbeck University of London, King’s College London, Vrije Universiteit Amsterdam, Shenzhen University, Shenzhen Institute of Research and Innovation, The University of Hong Kong, and Sun Yat-sen University.
+
+SIMETRI develops a world-class science platform relevant to political decision-makers responsible for housing, transport, employment and urban development in the world’s biggest mega-city region, the Pearl River Delta Greater Bay Area. The platform integrates work on inequality indicators and predicting future land use and transport developed in western Europe in London and the Randstad with related work in Shenzhen and Guangzhou, producing a system that will use state-of-the-art simulation models, big data from routine transport, and new ways of using information technology for participatory governance. 
+
+
 
 
 
