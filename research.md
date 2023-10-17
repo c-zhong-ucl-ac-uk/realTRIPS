@@ -25,7 +25,7 @@ More case studies will be added along with developing our project.
 ## Other relevant research projects
 
 <p align="center">
-  <img width="600" height="200" src="https://my.loyals.nl/uploads/images/websites/vrije-universiteit-spatial-economics/detail/simabout-the-project-1-2.png">
+  <img width="800" height="300" src="https://my.loyals.nl/uploads/images/websites/vrije-universiteit-spatial-economics/detail/simabout-the-project-1-2.png">
 </p>
 
 The research project [SIMETRI](https://simetri.uk/about-the-project) (SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance, 2019 - 2023) brings together researchers from University College London, Birkbeck University of London, King’s College London, Vrije Universiteit Amsterdam, Shenzhen University, Shenzhen Institute of Research and Innovation, The University of Hong Kong, and Sun Yat-sen University.
