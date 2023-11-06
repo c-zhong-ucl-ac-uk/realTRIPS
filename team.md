@@ -37,6 +37,8 @@ tagline:
 
 [Prof. Michael Batty](http://www.complexcity.info/) Professor of Planning, CASA, UCL
 
+[Mr. Robin Morphet](https://profiles.ucl.ac.uk/2086) Honorary Professor, CASA, UCL
+
 [Dr. Mingshu Wang](https://mingshuwang.org/) Senior Lecturer, University of Glasgow (on data ethics issues)
 
 ### Collaborators
