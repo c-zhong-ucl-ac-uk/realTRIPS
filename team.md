@@ -20,6 +20,9 @@ tagline:
 
 [Adham Enaya](https://www.ucl.ac.uk/bartlett/casa/adham-enaya) is a PhD student at CASA UCL, working on urban mobility and spatial interaction models. His thesis is "Improving the Performance of Deep Gravity Models in Predicting Urban Mobility in Geographic Areas with Limited Training Data through the Use of Urban Transfer Learning Techniques".
 
+[Adam(Zhengzi) Zhou](https://adamzhou.site/) and is a PhD student at CASA UCL started in Jan 2024, working on unraveling the complexities of spatial segregation using mobility data. Some of his publications can be found [here](https://scholar.google.com/citations?user=6LwvM_8AAAAJ&hl=zh-CN). 
+
+
 ### PhD students working on other relevant projects
 
 [Bowen Zhang](https://bowenzhang.org/) is a final year PhD based at [King's College London](https://www.kcl.ac.uk/geography), funded by K-CSC and co-supervised by Dr Zahra Shabrina and Dr Chen Zhong. He is working on a dissertation titled “Modelling Urban Clusters in Mega-city Region based on Human Mobility Pattern” using mobile phone data in the Great Bay Area. Bowen's research has significantly contributed to the [SIMETRI project](https://simetri.uk/about-the-project). He is also a part-time Research Associate at [the Alan Turing Institute](https://www.turing.ac.uk/).
