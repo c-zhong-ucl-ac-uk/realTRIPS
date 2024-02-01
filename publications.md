@@ -7,6 +7,8 @@ tagline: Documentation produced by, or associated with, the project
 
 ## Shenzhen
 
+**Qi-Li Gao**, **Chen Zhong**, Yang Yue, Rui Cao, and **Bowen Zhang**. 2024. [**Income estimation based on human mobility patterns and machine learning models**](https://www.sciencedirect.com/science/article/pii/S0143622823003107), Applied Geography, 163: 103179.
+
 Yongxin Yang, **Chen Zhong**, and **Qi‐Li Gao**. 2022. [**An extended node-place model for comparative studies of transit-oriented development**](https://www.sciencedirect.com/science/article/pii/S1361920922003406). Transportation Research Part D: Transport and Environment, 113, 103514.
 
 **Qi-li Gao**, Yang Yue, **Chen Zhong**, Jinzhou Cao, Wei Tu and Qingquan Li. 2022. [**Revealing transport inequality from an activity space perspective: A study based on human mobility data**](https://www.sciencedirect.com/science/article/pii/S0264275122004759), Cities 2022 pp 104036
@@ -37,6 +39,8 @@ Duncan A Smith, Yao Shen, Joana Barros, **Chen Zhong**, Michael Batty, and Maria
 
 
 ## Kenya/Africa 
+
+**Wenlan Zhang**, **Chen Zhong**, and Faith Taylor. 2023. [**Digital Injustice: A Case Study of Land Use Classification Using Multisource Data in Nairobi, Kenya**](https://discovery.ucl.ac.uk/id/eprint/10178890/) In.: Leibniz International Proceedings in Informatics (LIPIcs).
 
 Rafael Prieto Curiel,  **Carmen Cabrera-Arnau** and Steven R. Bishop, 2022. [**Scaling beyond cities**](https://www.frontiersin.org/articles/10.3389/fphy.2022.858307/full), Frontiers in Physics, in press
 
