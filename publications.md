@@ -35,7 +35,7 @@ Sharma, Divya, **Chen Zhong**, and Howard Wong. 2023. [**Lockdown lifted: measur
 
 **Carmen Cabrera-Arnau**, **Chen Zhong**, **Michael Batty**, Ricardo Silva, and Soong Moon Kang. 2023 [**Inferring urban polycentricity from the variability in human mobility patterns**](https://www.nature.com/articles/s41598-023-33003-7), Scientific reports 13, no. 1: 5751.
 
-Yi-Kang Wang, Chen Zhong, Qi‐Li Gao., and Carmen Cabrera-Arnau. 2022. [**Understanding internal migration in the UK before and during the COVID-19 pandemic using twitter data**](https://link.springer.com/article/10.1007/s44212-022-00018-w), Urban informatics, 1(1), 15.
+**Yi-Kang Wang, Chen Zhong, Qi‐Li Gao., and Carmen Cabrera-Arnau**. 2022. [**Understanding internal migration in the UK before and during the COVID-19 pandemic using twitter data**](https://link.springer.com/article/10.1007/s44212-022-00018-w), Urban informatics, 1(1), 15.
 
 Duncan A Smith, Yao Shen, Joana Barros, **Chen Zhong**, Michael Batty, and Mariana Giannotti. 2020. [**A compact city for the wealthy? Employment accessibility inequalities between occupational classes in the London metropolitan region 2011**](https://doi.org/10.1016/j.jtrangeo.2020.102767), Journal of Transport Geography, 86: 102767.
 
