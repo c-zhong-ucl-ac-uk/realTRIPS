@@ -9,6 +9,8 @@ tagline: Documentation produced by, or associated with, the project
 
 **Qi-Li Gao**, **Chen Zhong**, Yang Yue, Rui Cao, and **Bowen Zhang**. 2024. [**Income estimation based on human mobility patterns and machine learning models**](https://www.sciencedirect.com/science/article/pii/S0143622823003107), Applied Geography, 163: 103179.
 
+Li, Mingxiao, Wei Tu, Huan Tong, Jinzhou Cao, **Chen Zhong**, Hengcai Zhang, Jiasong Zhu, and Qingquan Li. 2024. [**Quantifying the nighttime economy–housing separation from a human activity standpoint: A case study in Shenzhen, China**](https://doi.org/10.1016/j.cities.2024.104894), Cities, 148: 104894.
+
 Yongxin Yang, **Chen Zhong**, and **Qi‐Li Gao**. 2022. [**An extended node-place model for comparative studies of transit-oriented development**](https://www.sciencedirect.com/science/article/pii/S1361920922003406). Transportation Research Part D: Transport and Environment, 113, 103514.
 
 **Qi-li Gao**, Yang Yue, **Chen Zhong**, Jinzhou Cao, Wei Tu and Qingquan Li. 2022. [**Revealing transport inequality from an activity space perspective: A study based on human mobility data**](https://www.sciencedirect.com/science/article/pii/S0264275122004759), Cities 2022 pp 104036
@@ -25,9 +27,11 @@ Jinzhou Cao, Qingquan Li, Wei Tu, **Qili Gao**, Rui Cao, and **Chen Zhong**. 202
 
 ## London
 
+**Qi-Li Gao**, **Chen Zhong**, and **Yikang Wang**. [**Unpacking urban scaling and socio-spatial inequalities in mobility: Evidence from England**](https://doi.org/10.1177/23998083241234137), Environment and Planning B: Urban Analytics and City Science, 0: 23998083241234137.
+
 **Chen, Zhong**, Robin Morphet, and Mitsuo Yoshida. 2023. [**Twitter mobility dynamics during the COVID-19 pandemic: A case study of London**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284902). PLOS ONE, 18(4), e0284902.
 
-Sharma, Divya, **Chen Zhong**, and Howard Wong. 2023. [Lockdown lifted: measuring spatial resilience from London’s public transport demand recovery**](https://www.tandfonline.com/doi/pdf/10.1080/10095020.2022.2156300), Geo-spatial Information Science, 1-18.
+Sharma, Divya, **Chen Zhong**, and Howard Wong. 2023. [**Lockdown lifted: measuring spatial resilience from London’s public transport demand recovery**](https://www.tandfonline.com/doi/pdf/10.1080/10095020.2022.2156300), Geo-spatial Information Science, 1-18.
 
 **Carmen Cabrera-Arnau**, **Chen Zhong**, **Michael Batty**, Ricardo Silva, and Soong Moon Kang. 2023 [**Inferring urban polycentricity from the variability in human mobility patterns**](https://www.nature.com/articles/s41598-023-33003-7), Scientific reports 13, no. 1: 5751.
 
