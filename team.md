@@ -56,6 +56,8 @@ tagline:
 
 [Dr Faith Taylor](https://www.kcl.ac.uk/people/faith-taylor) Lecturer in Physical Geography Education, King's College London
 
+[Dr Fuko Nakai](https://fnakai.web.nitech.ac.jp/) Assistant Professor, Department of Architecture, Civil Engineering and Industrial Management Engineering, Nagoya Institute of Technology
+
 
 ### Visiting scholars
 
