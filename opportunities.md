@@ -6,7 +6,9 @@ tagline:
 
 ### Join us!!!
 
-- Apply for a [UCL EPSRC DTP studentship](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship) now! There is one project proposed by our group, which is about [mobility and energy](https://ucl-epsrc-dtp.github.io/2024-25-project-catalogue/projects/2228cd1256.html). Studentship is open to both home and international students. Application deadline: 13:00 UK time on **08 January 2024**.
+- Apply for a [UCL EPSRC DTP studentship](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship)
+
+- Apply for a [ESRC DTP studentship](https://ubel-dtp.ac.uk/)
     
 - We have no opening Research Fellow positions, but some may become available at this year's and next year's end. Please keep an eye on our website and follow the CASA Twitter account.
 
