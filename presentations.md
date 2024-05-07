@@ -3,6 +3,26 @@ layout: presentations
 title: 
 tagline:
 ---
+
+
+
+<div class="tip" markdown="1">
+
+<img align="left" width="300" height="170" src="figures/presentations/aag2024_wenlan.png">
+
+[The 2024 AAG Annual Meeting](https://www.aag.org/events/aag2024/)
+
+[Title: A Data-Driven Approach for Identifying Open Dumping Sites in the Global South]
+
+Wenlan Zhang, Qunshan Zhao, Angela Abascal, Chen Zhong
+
+Keywords: GSV, Digital Injustice, Computer Vision, Solid Waste Management, the Global South
+
+</div>
+
+----
+
+
 <div class="tip" markdown="1">
 
 <img align="left" width="300" height="170" src="figures/presentations/gisruck2024_nilufer.png">
