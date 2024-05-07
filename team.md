@@ -61,9 +61,11 @@ tagline:
 
 ### Visiting scholars
 
-[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. Visiting scholar at CASA (2022-2023).
+[Dr Yang Zhou](http://ccnucity.ccnu.edu.cn/info/1053/6778.htm) Assistant Professor, Central China Normal University. Visiting scholar at CASA (2022-2023)
 
-[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) PhD student at Peking University. Visiting PhD student at CASA (02/2023 - 08/2023).
+[Xiaoyue Xing](https://scholar.google.com/citations?user=1ur-jfQAAAAJ&hl=zh-CN) PhD student at Peking University. Visiting PhD student at CASA (02/2023 - 08/2023)
+
+[Mengqi Sun]() PhD student from the Department of Land Surveying and Geo-Informatics (LSGI) at the Hong Kong Polytechnic University (05/2024 - 08/2024)
 
 ### Latest Blog Posts
 
