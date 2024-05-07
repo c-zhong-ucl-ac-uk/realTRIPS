@@ -3,6 +3,21 @@ layout: presentations
 title: 
 tagline:
 ---
+<div class="tip" markdown="1">
+
+<img align="left" width="300" height="170" src="figures/presentations/gisruck2024_nilufer.png">
+
+[The 32nd Annual GIS Research UK Conference](https://2024.gisruk.org//)
+
+[Title: Managing Variability: A Sensitivity Analysis Approach Applied To Mobile App Data](https://zenodo.org/records/10931749) 
+
+Nilufer Sari Aslam , Chen Zhong, Yikang Wang
+
+Keywords: Activity identification, sensitivity analysis, urban mobility, mobile app data.
+
+</div>
+
+----
 
 <div class="tip" markdown="1">
 
