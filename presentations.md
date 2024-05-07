@@ -8,7 +8,7 @@ tagline:
 
 <div class="tip" markdown="1">
 
-<img align="left" width="300" height="170" src="figures/presentations/aag2024_wenlan.png">
+<img align="left" width="300" height="170" src="figures/presentations/AAG2024_wenlan.png">
 
 [The 2024 AAG Annual Meeting](https://www.aag.org/events/aag2024/)
 
