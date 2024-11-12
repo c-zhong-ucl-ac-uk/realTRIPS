@@ -27,7 +27,11 @@ Jinzhou Cao, Qingquan Li, Wei Tu, **Qili Gao**, Rui Cao, and **Chen Zhong**. 202
 
 ## London
 
-**Qi-Li Gao**, **Chen Zhong**, and **Yikang Wang**. [**Unpacking urban scaling and socio-spatial inequalities in mobility: Evidence from England**](https://doi.org/10.1177/23998083241234137), Environment and Planning B: Urban Analytics and City Science, 0: 23998083241234137.
+Ye, Ying, **Chen Zhong**, and Esra Suel. 2024 [**Unpacking the Perceived Cycling Safety of Road Environment Using Street View Imagery and Cycle Accident Data**](https://www.sciencedirect.com/science/article/pii/S0001457524002227) Accident Analysis & Prevention 205 : 107677.
+
+**Murphy, Sam**, **Chen Zhong**, **Fulvio D Lopane**, Luke Rogerson, and Yi Gong. 2024. [**Socio-Economic Factors Affecting Spatial Inequalities in Pregnancy-Related Ambulance Attendances in Greater London**](https://www.frontiersin.org/journals/disaster-and-emergency-medicine/articles/10.3389/femer.2024.1402957/full). Frontiers in Disaster and Emergency Medicine 2 (2024): 1402957.
+
+**Qi-Li Gao**, **Chen Zhong**, and **Yikang Wang**. 2024 [**Unpacking urban scaling and socio-spatial inequalities in mobility: Evidence from England**](https://doi.org/10.1177/23998083241234137), Environment and Planning B: Urban Analytics and City Science, 0: 23998083241234137.
 
 **Chen, Zhong**, Robin Morphet, and Mitsuo Yoshida. 2023. [**Twitter mobility dynamics during the COVID-19 pandemic: A case study of London**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284902). PLOS ONE, 18(4), e0284902.
 
@@ -49,6 +53,8 @@ Duncan A Smith, Yao Shen, Joana Barros, **Chen Zhong**, Michael Batty, and Maria
 Rafael Prieto Curiel,  **Carmen Cabrera-Arnau** and Steven R. Bishop, 2022. [**Scaling beyond cities**](https://www.frontiersin.org/articles/10.3389/fphy.2022.858307/full), Frontiers in Physics, in press
 
 ## Other cities
+
+Sun, Mengqi, Yang Xu, **Chen Zhong**, Mengyao Ren, and Sangwon Park. 2024. 【**Unraveling Changes of Spending Behavior in Pandemic Cities: A Nationwide Study of South Korea**(https://www.sciencedirect.com/science/article/pii/S0198971524001108) Computers, Environment and Urban Systems 114 (2024): 102181.
 
 Qing-Quan Li, Yang Yue, **Qi-Li Gao**, **Chen Zhong**, and Joana Barros. 2022. [**Towards a new paradigm for segregation measurement in an age of big data**](https://link.springer.com/article/10.1007/s44212-022-00003-3) Urban Informatics 1, no. 1: 1-15.
 
@@ -79,6 +85,10 @@ Mariana Giannotti, Joana Barros, Diego B Tomasiello, Duncan Smith, Bruna Pizzol,
 * Zhiwei Huang, title: Exploring the Impact of Specific Built Environment on Trip Generation and Attraction in Shenzhen
 * Yuhong Chen, Exploring Relationships between Commuting Burdens and Built Environment Variables: Evidence from Guangzhou, China
 
-
+2024 - 
+* Xinyu Wu, title: Quantify the Impact of the Ultra Low Emission Zone on Footfall Patterns in High Streets and Social Equality across London
+* Yiyan Sun, title: Socioeconomic Status Shaping Spatiotemporal Dimension of Urban Segregation
+* Xianchen Wang, title: Next activity prediction from individual daily mobility patterns
+*
 
 
