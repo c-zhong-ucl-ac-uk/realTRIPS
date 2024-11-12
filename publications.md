@@ -54,7 +54,7 @@ Rafael Prieto Curiel,  **Carmen Cabrera-Arnau** and Steven R. Bishop, 2022. [**S
 
 ## Other cities
 
-Sun, Mengqi, Yang Xu, **Chen Zhong**, Mengyao Ren, and Sangwon Park. 2024. 【**Unraveling Changes of Spending Behavior in Pandemic Cities: A Nationwide Study of South Korea**(https://www.sciencedirect.com/science/article/pii/S0198971524001108) Computers, Environment and Urban Systems 114 (2024): 102181.
+Sun, Mengqi, Yang Xu, **Chen Zhong**, Mengyao Ren, and Sangwon Park. 2024. [**Unraveling Changes of Spending Behavior in Pandemic Cities: A Nationwide Study of South Korea**](https://www.sciencedirect.com/science/article/pii/S0198971524001108) Computers, Environment and Urban Systems 114 (2024): 102181.
 
 Qing-Quan Li, Yang Yue, **Qi-Li Gao**, **Chen Zhong**, and Joana Barros. 2022. [**Towards a new paradigm for segregation measurement in an age of big data**](https://link.springer.com/article/10.1007/s44212-022-00003-3) Urban Informatics 1, no. 1: 1-15.
 
